@@ -1,4 +1,3 @@
-console.log("Hello world!");
 const backgroundColor = "#285425";
 window.onload = function () {
   const canvas = document.getElementById("canvas") as HTMLCanvasElement;
